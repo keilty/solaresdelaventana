@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'u137379612_solares_db' );
 
 /** Database username */
-define( 'DB_USER', 'u137379612_gabo' );
+define( 'DB_USER', 'u137379612_gabosolar' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Turbina45778!' );
@@ -36,6 +36,9 @@ define( 'DB_CHARSET', 'utf8mb4' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
+
+define('WP_HOME','https://solaresdelaventana.com');
+define('WP_SITEURL','https://solaresdelaventana.com');
 
 /**#@+
  * Authentication unique keys and salts.
